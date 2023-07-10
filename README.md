@@ -5,9 +5,8 @@ Staj Programı Ön Değerlendirmesi
 ### Ekran Görüntüleri:
 
 ```
-![screenshots](https://github.com/iremhatipoglu/NoSurrender_CaseStudy/assets/62469438/591ab6d6-054b-4826-b9cf-65ff42a18cf8)
+[url=https://www.hizliresim.com/4r1eg1v][img]https://i.hizliresim.com/4r1eg1v.png[/img][/url]
 
-<img src="https://i.hizliresim.com/4r1eg1v.png" alt="ekran görüntüleri" width="320" height="180">
 ```
 
 ### Video Linki:
